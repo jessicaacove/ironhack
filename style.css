@@ -1,0 +1,28 @@
+body {
+    background-color: white
+    l;
+}
+
+h1 {
+    font-size: 72px;
+    font-family: Roboto,Arial, sans-serif;
+}
+
+h2 {
+    font-size: 48px;
+    font-family: Roboto,Arial, sans-serif;
+    font-weight: 600;
+  }
+
+.blue-gradient-header {
+    background: -webkit-linear-gradient(#32C, #32C3FF);
+    -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+ }
+
+ .green-blue-gradient-header {
+    background: -webkit-linear-gradient(green, #32C3FF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+ 
